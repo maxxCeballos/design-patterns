@@ -1,0 +1,7 @@
+/Users/maxi.ceballos/Documents/lab/design-patterns/behavioral-interpreter/src/main/java/com/maxiceballos/designpatterns/behavioral/interpreter/AndExpression.java
+/Users/maxi.ceballos/Documents/lab/design-patterns/behavioral-interpreter/src/main/java/com/maxiceballos/designpatterns/behavioral/interpreter/Context.java
+/Users/maxi.ceballos/Documents/lab/design-patterns/behavioral-interpreter/src/main/java/com/maxiceballos/designpatterns/behavioral/interpreter/Expression.java
+/Users/maxi.ceballos/Documents/lab/design-patterns/behavioral-interpreter/src/main/java/com/maxiceballos/designpatterns/behavioral/interpreter/Main.java
+/Users/maxi.ceballos/Documents/lab/design-patterns/behavioral-interpreter/src/main/java/com/maxiceballos/designpatterns/behavioral/interpreter/NotExpression.java
+/Users/maxi.ceballos/Documents/lab/design-patterns/behavioral-interpreter/src/main/java/com/maxiceballos/designpatterns/behavioral/interpreter/OrExpression.java
+/Users/maxi.ceballos/Documents/lab/design-patterns/behavioral-interpreter/src/main/java/com/maxiceballos/designpatterns/behavioral/interpreter/VariableExpression.java

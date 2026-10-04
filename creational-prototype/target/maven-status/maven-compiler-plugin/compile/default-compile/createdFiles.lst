@@ -1,0 +1,6 @@
+com/maxiceballos/designpatterns/creational/prototype/Shape.class
+com/maxiceballos/designpatterns/creational/prototype/Main.class
+com/maxiceballos/designpatterns/creational/prototype/Color.class
+com/maxiceballos/designpatterns/creational/prototype/Circle.class
+com/maxiceballos/designpatterns/creational/prototype/Rectangle.class
+com/maxiceballos/designpatterns/creational/prototype/ShapeRegistry.class

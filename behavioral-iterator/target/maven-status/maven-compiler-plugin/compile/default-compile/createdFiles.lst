@@ -1,0 +1,6 @@
+com/maxiceballos/designpatterns/behavioral/iterator/IterableCollection.class
+com/maxiceballos/designpatterns/behavioral/iterator/BookShelf.class
+com/maxiceballos/designpatterns/behavioral/iterator/BookShelfIterator.class
+com/maxiceballos/designpatterns/behavioral/iterator/CustomIterator.class
+com/maxiceballos/designpatterns/behavioral/iterator/Main.class
+com/maxiceballos/designpatterns/behavioral/iterator/Book.class

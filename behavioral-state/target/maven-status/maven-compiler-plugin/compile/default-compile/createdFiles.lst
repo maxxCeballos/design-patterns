@@ -1,0 +1,6 @@
+com/maxiceballos/designpatterns/behavioral/state/DocumentState.class
+com/maxiceballos/designpatterns/behavioral/state/Document.class
+com/maxiceballos/designpatterns/behavioral/state/Main.class
+com/maxiceballos/designpatterns/behavioral/state/DraftState.class
+com/maxiceballos/designpatterns/behavioral/state/PublishedState.class
+com/maxiceballos/designpatterns/behavioral/state/ModerationState.class

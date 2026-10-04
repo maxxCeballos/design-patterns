@@ -1,0 +1,7 @@
+com/maxiceballos/designpatterns/structural/bridge/Shape.class
+com/maxiceballos/designpatterns/structural/bridge/Circle.class
+com/maxiceballos/designpatterns/structural/bridge/RedColor.class
+com/maxiceballos/designpatterns/structural/bridge/BlueColor.class
+com/maxiceballos/designpatterns/structural/bridge/Color.class
+com/maxiceballos/designpatterns/structural/bridge/Square.class
+com/maxiceballos/designpatterns/structural/bridge/Main.class

@@ -1,0 +1,7 @@
+com/maxiceballos/designpatterns/structural/adapter/MediaAdapter.class
+com/maxiceballos/designpatterns/structural/adapter/AudioPlayer.class
+com/maxiceballos/designpatterns/structural/adapter/MediaPlayer.class
+com/maxiceballos/designpatterns/structural/adapter/Main.class
+com/maxiceballos/designpatterns/structural/adapter/Mp4Player.class
+com/maxiceballos/designpatterns/structural/adapter/AdvancedMediaPlayer.class
+com/maxiceballos/designpatterns/structural/adapter/VlcPlayer.class
